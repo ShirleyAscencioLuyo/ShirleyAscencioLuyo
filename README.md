@@ -1,15 +1,15 @@
 <!-- Greeting -->
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <!--Introduction -->
-soy shirley estudiante de la carrera **Analisis de sistemas**:iphone:, buscando resolver **problemas del mundo real**:earth_asia:. Me apasiona hacer que el  **open-source** creando software💻 y herramientas para ayudar a las personas y construyendo una comunidad.<br>
+Soy Shirley Ascencio con 17 años estudiante de la carrera ,**Analisis de sistemas**:iphone:, busco resolver **problemas del mundo real**:earth_asia:. Me apasiona el  **open-source** creando software💻 y herramientas para ayudar a las personas.<br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>El diseño no es solo </b>lo que se ve y lo que se siente. <b> El diseño es cómo funciona.</b> :blush:</em>
 
 <div align="center">
 
 <i>Sigueme en :</i><br>
 
-<a href="linkedin.com/in/shirley-ascencio-432993239" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/shirley-ascencio-432993239/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/shirleyascencio.p/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/profile.php?id=100086272549840" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://open.spotify.com/user/v85zau0pw4jpc4wz5x57qc4el?si=dZoGW7I9QqKoZqoAgRfPtw&utm_source=whatsapp" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
@@ -21,17 +21,9 @@ soy shirley estudiante de la carrera **Analisis de sistemas**:iphone:, buscando 
 * Aprendizaje Front-End Web:computadora: Desarrollo
 * Aprendiendo algunos vectores de dibujo: arte: utilizando Adobe Illustrator.
 * Espero tomar un Curso: Angular en el futuro.
-* 🔜
 
 ### 🌱 Desafios a los que me enfrento ultimamente:
-Aprovecho el tiempo fuera de mis semestres 🌏 para tomar cursos de aprendizaje y mejorar mis conocimientos ⌚, decidí aprovechar este tiempo para fortalecer los conocimientos adquiridos durante el año 📚. Me propuse dos objetivos y espero cumplirlos con éxito.🏃
-
-* Aprende a codificar: Java Fundamental: 3-4 horas al día sin distracciones (uno o dos días de descanso a la semana).
-* Leer: Artículos: de conocimiento sobre los temas que veo actualmente
-* Platzi: EDtem: Udemy: Fazt: 3 días seguidos y tómate un día de descanso
-* Evita pasar demasiado tiempo en las Redes Sociales
-* Adaptación al estilo de vida minimalista.
-* 🔜
+Aprovecho el tiempo fuera de mis semestres 🌏 para tomar cursos de aprendizaje y mejorar mis conocimientos ⌚, decidí aprovechar este tiempo para fortalecer los conocimientos adquiridos durante el año 📚. Me propuse objetivos y espero cumplirlos con éxito.🏃
 
  ### Lenguajes y herramientas: 
 <p> <!-- GitHub README Stats -->
@@ -49,11 +41,4 @@ Aprovecho el tiempo fuera de mis semestres 🌏 para tomar cursos de aprendizaje
 <br>
 </p>
 
-<h4 align="center">¡Gracias por su visita!:innocent:</h4>
-
-<!-- Credit -->
-### Creditos  
-- [**GIPHY**](https://giphy.com/) for GIFs. 
-
-
-⭐️ From [JoykishanSharma](https://github.com/JoykishanSharma)
+<h4 align="center">¡Gracias por visitar mi perfil!:innocent:</h4>
