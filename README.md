@@ -1,14 +1,20 @@
 <!-- Greeting -->
-# Bienvenido(a) a mi perfil! :wave::smiley:
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <!--Introduction -->
 soy shirley estudiante de la carrera **Analisis de sistemas**:iphone:, buscando resolver **problemas del mundo real**:earth_asia:. Me apasiona hacer que el  **open-source** creando software💻 y herramientas para ayudar a las personas y construyendo una comunidad.<br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>El diseño no es solo </b>lo que se ve y lo que se siente. <b> El diseño es cómo funciona.</b> :blush:</em>
 
-<!-- Mis redes -->
-[![Linkedin](https://img.shields.io/badge/-ShirleyAscencio-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/shirley-ascencio-432993239/)
-[![Instagram](https://img.shields.io/badge/-ShirleyAscencio-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)]([https://www.instagram.com/shirleyascencio.p/)
-[![Gmail](https://img.shields.io/badge/-shirley.ascencio@vallegrande.edu.pe-c14438?style=flat&logo=Gmail&logoColor=white)](shirley.ascencio@vallegreande.edu.pe)
+<div align="center">
+
+<i>Sigueme en :</i><br>
+
+<a href="linkedin.com/in/shirley-ascencio-432993239" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/shirleyascencio.p/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/profile.php?id=100086272549840" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://open.spotify.com/user/v85zau0pw4jpc4wz5x57qc4el?si=dZoGW7I9QqKoZqoAgRfPtw&utm_source=whatsapp" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+
+</div>
 
 
 ### 💼  Cosas en las que estoy trabajando ultimamente: 
@@ -48,7 +54,6 @@ Aprovecho el tiempo fuera de mis semestres 🌏 para tomar cursos de aprendizaje
 <!-- Credit -->
 ### Creditos  
 - [**GIPHY**](https://giphy.com/) for GIFs. 
-
 
 
 ⭐️ From [JoykishanSharma](https://github.com/JoykishanSharma)
