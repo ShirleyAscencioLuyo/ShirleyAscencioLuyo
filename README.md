@@ -1,5 +1,5 @@
 <!-- Greeting -->
-<h2> 𝐇𝐨la, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇ola, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <!--Introduction -->
 Soy Shirley Ascencio con 17 años estudiante de la carrera ,**Analisis de sistemas**:iphone:, busco resolver **problemas del mundo real**:earth_asia:. Me apasiona el  **open-source** creando software💻 y herramientas para ayudar a las personas.<br>
