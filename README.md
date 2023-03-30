@@ -47,3 +47,6 @@ Aprovecho el tiempo fuera de mi estudios profesionales 🌏 para tomar cursos de
 <img src="https://github.com/ShirleyAscencioLuyo/portafolio-personal/blob/main/Mi%20perfil.png" width="200"/>
 
 <h4 align="center">¡Gracias por visitar mi perfil!:innocent:</h4>
+ 
+ 
+ 
