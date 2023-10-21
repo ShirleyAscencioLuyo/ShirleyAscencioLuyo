@@ -20,7 +20,7 @@
 </div>
 
 
-#### 👩‍💻Cosas en las que estoy aprendiendo actualmente:
+#### 👩‍💻Cosas que estoy aprendiendo actualmente:
 -  Desarrollo de mis proyectos profesionales.
 -  Tomar cursos en línea.
 
@@ -28,7 +28,7 @@
 -  Ser organizado con mi tiempo.
 -  Terminar cursos pendientes.
 -  Codificar al menos 5 horas al día.
--  Centrarme en mi concentración y aprendizaje.
+-  Mejorar mi concentración y aprendizaje.
 
 
 <div height="500" align="right"  width="50" >
