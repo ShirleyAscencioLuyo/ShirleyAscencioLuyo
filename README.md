@@ -19,8 +19,8 @@
 
 </div>
 
-<br>
-####:👩‍💻 Cosas en las que estoy trabajando actualmente:
+
+#### : 👩‍💻Cosas en las que estoy aprendiendo actualmente:
 -Desarrollo de mis proyectos profesionales.
 -Tomar cursos en línea.
 
