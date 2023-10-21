@@ -57,6 +57,11 @@
 - &#160; ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=trello&logoColor=white)
+- &#160; ![Intellij IDEA](https://img.shields.io/badge/Intellij_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse-ide&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
+![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white)
+![TablePlus](https://img.shields.io/badge/TablePlus-03A9F4?style=flat&logo=tableplus&logoColor=white)
 
 <div height="500" align="right"  width="50" >
 
