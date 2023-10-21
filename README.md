@@ -21,6 +21,7 @@
 
 
 #### : 👩‍💻Cosas en las que estoy aprendiendo actualmente:
+-Estudiar
 -Desarrollo de mis proyectos profesionales.
 -Tomar cursos en línea.
 
