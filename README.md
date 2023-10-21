@@ -22,9 +22,9 @@
 
 #### 👩‍💻Cosas en las que estoy aprendiendo actualmente:
 -  Prueba
--Estudiar
--Desarrollo de mis proyectos profesionales.
--Tomar cursos en línea.
+-  Estudiar
+-  Desarrollo de mis proyectos profesionales.
+-  Tomar cursos en línea.
 
 #### 🌱Retos personales:
 -Ser organizado con mi tiempo.
