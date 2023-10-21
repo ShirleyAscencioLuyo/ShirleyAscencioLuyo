@@ -13,7 +13,9 @@
 <a href="https://www.instagram.com/shir.ascencio/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="[https://www.facebook.com/shirley.devp](https://www.facebook.com/shirley.devp)](https://www.facebook.com/shirley.devp)" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://open.spotify.com/user/v85zau0pw4jpc4wz5x57qc4el?si=dZoGW7I9QqKoZqoAgRfPtw&utm_source=whatsapp" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shirley.ascencio@vallegrande.edu.pe)
+<a href="mailto:shirley.ascencio@vallegrande.edu.pe" target="_blank"> <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
 </div>
 
 #### 👩‍💻Cosas que estoy aprendiendo actualmente:
