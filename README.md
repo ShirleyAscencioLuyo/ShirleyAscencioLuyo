@@ -23,12 +23,12 @@
 -  Tomar cursos en línea.
 
 #### 🌱Retos personales:
--  Ser organizado con mi tiempo.
+-  Ser organizada con mi tiempo.
 -  Terminar cursos pendientes.
 -  Codificar al menos 5 horas al día.
 -  Mejorar mi concentración y aprendizaje.
 
-#### :computer: Programming languages and tools: 
+#### :computer: Lenguajes y herramientas de programación: 
 - &#160; ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=Java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat&logo=springboot&link=https://github.com/Quananhle/Java-Web-Developer)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=ffffff)
