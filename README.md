@@ -2,7 +2,7 @@
 <h2> 𝐇ey, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <!--Introduction -->
-¡Bienvenido a mi perfil de Github! Soy Shirley Ascencio y actualmente estudio la carrera **análisis de sistemas**, en el [IESTP Valle Grande](https://www.vallegrande.edu.pe)!<br>
+>*¡Bienvenido a mi perfil de Github! Soy Shirley Ascencio y actualmente estudio la carrera **análisis de sistemas**, en el [IESTP Valle Grande](https://www.vallegrande.edu.pe)!!*
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>El diseño no es solo </b>lo que se ve y lo que se siente. <b> El diseño es cómo funciona.</b> :blush:</em>
 
 <div align="center">
