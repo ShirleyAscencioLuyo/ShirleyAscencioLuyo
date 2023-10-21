@@ -6,8 +6,6 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>El diseño no es solo </b>lo que se ve y lo que se siente. <b> El diseño es cómo funciona.</b> :blush:</em>
-
 <div align="center">
 
 <i>Sigueme en :</i><br>
