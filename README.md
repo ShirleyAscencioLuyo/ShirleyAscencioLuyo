@@ -20,12 +20,12 @@
 </div>
 
 
-#### : 👩‍💻Cosas en las que estoy aprendiendo actualmente:
+#### 👩‍💻Cosas en las que estoy aprendiendo actualmente:
 -Estudiar
 -Desarrollo de mis proyectos profesionales.
 -Tomar cursos en línea.
 
-#### : 🌱Retos personales:
+#### 🌱Retos personales:
 -Ser organizado con mi tiempo.
 -Terminar cursos pendientes.
 -Codificar al menos 5 horas al día.
