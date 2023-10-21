@@ -1,5 +1,5 @@
 <!-- Greeting -->
-<h2> **_Hey 𝚌𝚘𝚍𝚎𝚛/_** <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> **_<Hey 𝚌𝚘𝚍𝚎𝚛/>/_** <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <!--Introducción -->
 >*¡Bienvenido a mi perfil de Github! Soy Shirley Ascencio y actualmente estudio la carrera **análisis de sistemas**, en el [IESTP Valle Grande](https://www.vallegrande.edu.pe)!!*
