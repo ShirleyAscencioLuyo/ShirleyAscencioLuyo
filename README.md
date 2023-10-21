@@ -63,6 +63,10 @@
 ![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white)
 ![TablePlus](https://img.shields.io/badge/TablePlus-03A9F4?style=flat&logo=tableplus&logoColor=white)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shirleyascencioluyo&" alt="shirleyascencioluyo" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shirleyascencioluyo&show_icons=true&locale=en&layout=compact" alt="shirleyascencioluyo"/></p>
+
 <div height="500" align="right"  width="50" >
 
 <img src="https://github.com/ShirleyAscencioLuyo/portafolio-personal/blob/main/Mi%20perfil.png" width="200"/>
