@@ -68,8 +68,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shirleyascencioluyo&show_icons=true&locale=en&layout=compact" alt="shirleyascencioluyo"/></p>
 
-<div height="500" align="right"  width="50" >
+<img align="center" src="https://github-profile-trophy.vercel.app/api/?username=ShirleyAscencioLuyo&locale=es" alt="ShirleyAscencioLuyo"/>
 
-<img src="https://github.com/ShirleyAscencioLuyo/portafolio-personal/blob/main/Mi%20perfil.png" width="200"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShirleyAscencioLuyo&show_icons=true&locale=es&role=OWNER,COLLABORATOR&theme=default" alt="ShirleyAscencioLuyo" style="width: 500px;"/>
+
+#### 👩‍💻Contador de Visitas: 
+<img src="https://profile-counter.glitch.me/ShirleyAscencioLuyo/count.svg"/>
 
 <h4 align="center">¡Gracias por visitar mi perfil!👩‍💻</h4>
