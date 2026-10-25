@@ -2,7 +2,7 @@
 <h2>Hey, <𝚌𝚘𝚍𝚎𝚛/><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <!--Introducción -->
->*¡Bienvenido a mi perfil de Github! Soy Shirley Ascencio estudiante de la carrera **análisis de sistemas**, en el [IESTP Valle Grande](https://www.vallegrande.edu.pe)!!*
+>*¡Bienvenido a mi perfil de Github! Soy Shirley Ascencio egresada de la carrera **análisis de sistemas**, en el [IESTP Valle Grande](https://www.vallegrande.edu.pe)!!*
 
 <br>
 
