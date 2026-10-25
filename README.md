@@ -1,5 +1,5 @@
 <!-- Greeting -->
-<h2>Heyyy, <𝚌𝚘𝚍𝚎𝚛/><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2>Heyy, <𝚌𝚘𝚍𝚎𝚛/><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <!--Introducción -->
 >*¡Bienvenido a mi perfil de Github! Soy Shirley Ascencio egresada de la carrera **análisis de sistemas**, en el [IESTP Valle Grande](https://www.vallegrande.edu.pe)!!*
@@ -15,10 +15,17 @@
 
 </div>
 
-#### 👩‍💻Cosas que estoy aprendiendo actualmente:
--  Actualmente me desempeño como desarrolladora de software.
--  enfocando mi crecimiento profesional en desarrollo Backend con Java.
--  Me interesa construir aplicaciones mantenibles, APIs REST, integraciones, procesamiento de datos y soluciones backend siguiendo buenas prácticas de desarrollo.
+#### 👩‍💻Sobre mí:
+-  Actualmente me desempeño como **Desarrolladora de Software**, con enfoque en desarrollo **Backend**.
+-  Trabajo principalmente con **Java** y continúo fortaleciendo mis conocimientos en el ecosistema **Spring**.
+-  Me interesa desarrollar soluciones mantenibles, bien estructuradas y siguiendo buenas prácticas de desarrollo.
+
+#### 🚀 En qué me estoy enfocando:
+-  Profundizar mis conocimientos en **Java y Spring Boot**.
+-  Diseñar y desarrollar **APIs REST**.
+-  Mejorar en **arquitectura Backend, testing y buenas prácticas**.
+-  Fortalecer mis conocimientos en **bases de datos, Docker, CI/CD y AWS**.
+-  Construir proyectos personales que me permitan aplicar estos conocimientos en escenarios reales.
 
 #### :computer: Lenguajes y herramientas de programación: 
 - &#160; ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=Java&logoColor=white)
@@ -60,11 +67,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shirleyascencioluyo&show_icons=true&locale=en&layout=compact" alt="shirleyascencioluyo"/></p>
 
-<img align="center" src="https://github-profile-trophy.vercel.app/api/?username=ShirleyAscencioLuyo&locale=es" alt="ShirleyAscencioLuyo"/>
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShirleyAscencioLuyo&show_icons=true&locale=es&role=OWNER,COLLABORATOR&theme=default" alt="ShirleyAscencioLuyo" style="width: 500px;"/>
-
-#### 👩‍💻Contador de Visitas: 
-<img src="https://profile-counter.glitch.me/ShirleyAscencioLuyo/count.svg"/>
 
 <h4 align="center">¡Gracias por visitar mi perfil!👩‍💻</h4>
