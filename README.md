@@ -1,5 +1,5 @@
 <!-- Greeting -->
-<h2>Hey, <𝚌𝚘𝚍𝚎𝚛/><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2>Heyyy, <𝚌𝚘𝚍𝚎𝚛/><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <!--Introducción -->
 >*¡Bienvenido a mi perfil de Github! Soy Shirley Ascencio egresada de la carrera **análisis de sistemas**, en el [IESTP Valle Grande](https://www.vallegrande.edu.pe)!!*
@@ -10,23 +10,15 @@
 <i>Sigueme en :</i><br>
 
 <a href="https://www.linkedin.com/in/shirley-ascencio-432993239/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/shir.ascencio/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="[https://www.facebook.com/shirley.devp](https://www.facebook.com/shirley.devp)](https://www.facebook.com/shirley.devp)" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://open.spotify.com/user/v85zau0pw4jpc4wz5x57qc4el?si=dZoGW7I9QqKoZqoAgRfPtw&utm_source=whatsapp" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="mailto:shirley.ascencio@vallegrande.edu.pe" target="_blank"> <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
 </div>
 
 #### 👩‍💻Cosas que estoy aprendiendo actualmente:
--  Desarrollo de mis proyectos profesionales.
--  Tomar cursos en línea.
-
-#### 🌱Retos personales:
--  Ser organizada con mi tiempo.
--  Terminar cursos pendientes.
--  Codificar al menos 5 horas al día.
--  Mejorar mi concentración y aprendizaje.
+-  Actualmente me desempeño como desarrolladora de software.
+-  enfocando mi crecimiento profesional en desarrollo Backend con Java.
+-  Me interesa construir aplicaciones mantenibles, APIs REST, integraciones, procesamiento de datos y soluciones backend siguiendo buenas prácticas de desarrollo.
 
 #### :computer: Lenguajes y herramientas de programación: 
 - &#160; ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=Java&logoColor=white)
